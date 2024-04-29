@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil-h-w&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-h-w" /> </p>
 
 <h1 align="center">Hi 👋, I'm Aadil H W</h1>
-<h3 align="center">Computer Science graduate who is passionate in </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=Artificial+Intelligence+and+Machine+Learning;Cybersecurity;Software+Engineering;Data+Science+and+Big+Data;Mobile+Development;Web+Development;Computer+Graphics+and+Visualization;Distributed+Systems+and+Cloud+Computing;Game+Development;Robotics;Programming" alt="Typing SVG" /></a>
+<h3 align="center">Computer Science graduate who is passionate in: </h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=Artificial+Intelligence+and+Machine+Learning;Cybersecurity;Software+Engineering;Data+Science+and+Big+Data;Mobile+Development;Web+Development;Computer+Graphics+and+Visualization;Distributed+Systems+and+Cloud+Computing;Game+Development;Robotics;Programming" alt="Typing SVG" /></a>
 
 
 
