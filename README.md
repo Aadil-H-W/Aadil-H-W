@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil-h-w&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-h-w" /> </p>
+
 <h1 align="center">Hi 👋, I'm Aadil H W</h1>
 <h3 align="center">Computer Science graduate who is passionate in </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil-h-w&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-h-w" /> </p>
+
 
 <p align="left">
 </p>
