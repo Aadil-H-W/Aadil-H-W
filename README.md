@@ -102,3 +102,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-h-w&show_icons=true&locale=en&layout=compact" alt="aadil-h-w" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aadil-H-W&theme=black-ice&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+
+
+
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+```
