@@ -105,4 +105,4 @@
 
 [![Aadil-H-W's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aadil-h-w&theme=algolia&show_icons=true)](https://github.com/Aadil-H-W)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aadil-H-W&theme=black-ice&hide_border=true&card_width=500" alt="GitHub Streak"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aadil-H-W&theme=github-dark-blue)](https://git.io/streak-stats)
