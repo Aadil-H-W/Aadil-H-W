@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil-h-w&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-h-w" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aadil-h-w&label=Profile%20views&color=0e75b6&style=flat" alt="aadil-h-w" /> </p>
 
 
 ## [<a href="https://aadil-h-w.github.io/">Hi 👋, I'm Aadil H W</a>](https://aadil-h-w.github.io/)
