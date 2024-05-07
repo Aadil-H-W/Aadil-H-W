@@ -94,6 +94,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/Aadil-H-W">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-h-w&theme=algolia&show_icons=true" />
