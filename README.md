@@ -10,8 +10,6 @@
 ### Computer Science graduate who is passionate about:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=Artificial+Intelligence+and+Machine+Learning;Cybersecurity;Software+Engineering;Data+Science+and+Big+Data;Mobile+Development;Web+Development;Computer+Graphics+and+Visualization;Distributed+Systems+and+Cloud+Computing;Game+Development;Robotics;Programming)](https://git.io/typing-svg)
-
-
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
