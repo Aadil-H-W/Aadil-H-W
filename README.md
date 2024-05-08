@@ -97,9 +97,9 @@
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/Aadil-H-W">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-h-w&theme=algolia&show_icons=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadil-h-w&theme=algolia&show_icons=true"/>
     </a>
     <a href="https://git.io/streak-stats">
-        <img align="center" src="https://streak-stats.demolab.com?user=Aadil-H-W&theme=github-dark-blue" />
+        <img align="center" src="https://streak-stats.demolab.com?user=Aadil-H-W&theme=github-dark-blue"/>
     </a>
 </div>
